@@ -1,0 +1,2 @@
+class Onetimetoken < ApplicationRecord
+end
